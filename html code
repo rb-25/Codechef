@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>Culspire</title>
+        <link rel="stylesheet" href="css/style.css">        
+        <link rel="icon" href="images/Screenshot 2023-03-01 225146.png" type="image/x-icon">
+    </head>
+    <body>
+        <div class="header">        
+            <nav>
+                <div class="logo">
+                    <span>Culspire</span>
+                    
+                </div>
+                <ul>
+                    <li>
+                        <a href="#Current Events ">Current Events</a>
+                    </li>
+                    <li>
+                        <a href="#Upcoming Events">Upcoming Events</a>
+                    </li>
+                    <li>
+                        <a href="#Calender">Calender</a>
+                    </li>
+                </ul>
+            </nav>
+            
+        </div>
+                             
+        
+        <div class="container1">
+            <div class="slides">
+                <section id= "Current Events">
+                    <h2> Current events</h2>
+                    <p> Sorry nothing here :( </p>
+                </section>
+            </div>         
+            <div class="slides">
+            <section id="Upcoming Events">
+                <div class="user">        
+                    <img src="images/Screenshot 2023-03-01 224920.png" alt="HOLI">                    
+                    <div clas="info">
+                        <h2> &nbsp; &nbsp; Upcoming events</h2>
+                        <p> Holi, Hindu spring festival celebrated throughout North India on the full-moon day of Phalguna (February–March). Participants throw coloured water and powders on one another</p>
+                        <p> <b>Venue:</b> KC ground </p>
+                        <p><b> Time:</b> 8th March 2023, 4:00 pm</p>
+                        <p><b> Dress code:</b> Ethnic </p>
+                    </div>
+                </div> 
+            </section>
+            </div> 
+            <br>
+            <div class="slides">
+            <section id="Calender">
+                <h2> Calender </h2>                
+                <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FKolkata&src=ZW4uaW5kaWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+            </section>
+            </div>
+                        
+        </div>        
+    </body>
+</html>
