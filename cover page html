@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Culspire</title>
+        <link rel="stylesheet" href="glitchstyle.css">  
+    </head>
+    <body>
+        <a href="codechef.html" class="glitch">Culspire</a>
+        <div class="header">        
+            <ul>
+                <li>
+                        <a href="login.html">Login</a>
+                </li>
+            </ul>                           
+        </div>        
+    </body>
+</html>
