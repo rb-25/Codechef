@@ -5,33 +5,26 @@
         <link rel="icon" href="images/Screenshot 2023-03-01 225146.png" type="image/x-icon">
     </head>
     <body>
-        <div class="header">        
-            <nav>
-                <div class="logo">
-                    <span>Culspire</span>
-                    
-                </div>
-                <ul>
-                    <li>
-                        <a href="#Current Events ">Current Events</a>
-                    </li>
-                    <li>
-                        <a href="#Upcoming Events">Upcoming Events</a>
-                    </li>
-                    <li>
-                        <a href="#Calender">Calender</a>
-                    </li>
-                </ul>
-            </nav>
-            
-        </div>
+        <nav>
+        <ul>
+            <li>
+                <a href="#Current Events ">Current Events</a>
+            </li>
+            <li>
+                <a href="#Upcoming Events">Upcoming Events</a>
+            </li>
+            <li>
+                <a href="#Calender">Calender</a>
+            </li>
+        </ul>
+        </nav>
                              
         
         <div class="container1">
             <div class="slides">
                 <section id= "Current Events">
                     <h2> Current events</h2>
-                    <p> Sorry nothing here :( </p>
+                    <p> Sorry, nothing here ! </p>
                 </section>
             </div>         
             <div class="slides">
@@ -55,7 +48,10 @@
                 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FKolkata&src=ZW4uaW5kaWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
             </section>
             </div>
-                        
-        </div>        
+            <p>
+                <a href="#">Back to top</a>            
+            </p>                        
+        </div>
+                
     </body>
 </html>
