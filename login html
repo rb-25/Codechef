@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>login</title>
+        <link rel="stylesheet" href="css/loginstyle.css">
+    </head>
+    <body>
+        <div class="sign-up-form">
+            <h1>Admin Login</h1>
+                <form >
+                    <input type="text" class="input-box" placeholder="Username">
+                    <input type="password" class="input-box" placeholder="Password">
+                    <p></p>
+                    <button type="button" class="sign-btn">Login</button>
+                </form>            
+        </div>
+    </body>
+</html>
