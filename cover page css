@@ -5,7 +5,7 @@
     font-family: sans-serif;
 }
 body{
-    background: #2B3467;
+    background: linear-gradient(#3E54AC,#655DBB,#BFACE2);
     color: #FCFFE7;
 }
 .glitch{
